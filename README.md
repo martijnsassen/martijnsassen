@@ -15,5 +15,7 @@
 ### What I do
 - 🏗️ My ongoing projects:
   - A web app for the local fire department
+  - Various websites
+  - Many more queued...
 - 🏫 I’m currently learning:
   - Every day...
