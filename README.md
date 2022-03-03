@@ -8,6 +8,7 @@
 [![](https://img.shields.io/badge/Editor-VS%20Code-informational?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Language-Javascript-informational?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/Language-Vue.js-informational?logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![](https://img.shields.io/badge/Language-C-informational?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![](https://img.shields.io/badge/Framework-Vuetify-informational?logo=vuetify&logoColor=white)](https://vuetifyjs.com/)
 [![](https://img.shields.io/badge/Cloud-Firebase-informational?logo=firebase&logoColor=white)](https://firebase.google.com/)
 
