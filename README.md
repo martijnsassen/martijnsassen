@@ -18,6 +18,7 @@
 ### What I do
 - 🏗️ My ongoing projects:
   - A web app for the local fire department
+  - A web app for a local gliding club
   - My website
   - Other's websites
   - Many more queued...
